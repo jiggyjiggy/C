@@ -9,7 +9,7 @@ int main(void)
 
 /*
 clang -std=c89 -W -Wall -pedantic-errors  // flag 확인해야함
-a.out
+a.out   // ./a.out
 echo $?  // 0
 */
 
